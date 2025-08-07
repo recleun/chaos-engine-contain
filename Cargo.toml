@@ -1,0 +1,9 @@
+[package]
+name = "chaos-engine-contain"
+description = "A crate that helps with the development of chaos-engine projects."
+version = "0.1.0"
+license = "MIT"
+repository = "https://github.com/recleun/chaos-engine-contain"
+edition = "2024"
+
+[dependencies]
